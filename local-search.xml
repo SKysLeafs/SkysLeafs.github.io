@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>git 学习（长期）</title>
+    <link href="/2024/05/02/git%E5%AD%A6%E4%B9%A0%EF%BC%88%E9%95%BF%E6%9C%9F%EF%BC%89/"/>
+    <url>/2024/05/02/git%E5%AD%A6%E4%B9%A0%EF%BC%88%E9%95%BF%E6%9C%9F%EF%BC%89/</url>
+    
+    <content type="html"><![CDATA[<hr><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>最经换电脑了，电脑里的东西全得转移，真的麻烦，搞这个博客就花了好长时间来 git，借此机会想来学习一下 git 相关知识，慢慢学。</p><p>…… 未完待续</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Git</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Git</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Linux 学习 1</title>
     <link href="/2022/08/08/Linux-%E5%AD%A6%E4%B9%A0-1/"/>
     <url>/2022/08/08/Linux-%E5%AD%A6%E4%B9%A0-1/</url>
@@ -236,9 +261,9 @@
     
     <tags>
       
-      <tag>UVA</tag>
-      
       <tag>题解</tag>
+      
+      <tag>UVA</tag>
       
       <tag>并查集</tag>
       
@@ -296,11 +321,11 @@
       
       <tag>数论</tag>
       
-      <tag>UVA</tag>
+      <tag>筛法</tag>
       
       <tag>题解</tag>
       
-      <tag>筛法</tag>
+      <tag>UVA</tag>
       
     </tags>
     
@@ -408,9 +433,9 @@
       
       <tag>数论</tag>
       
-      <tag>题解</tag>
-      
       <tag>筛法</tag>
+      
+      <tag>题解</tag>
       
     </tags>
     
@@ -435,11 +460,11 @@
     
     <tags>
       
+      <tag>数论</tag>
+      
       <tag>LCM</tag>
       
       <tag>GCD</tag>
-      
-      <tag>数论</tag>
       
     </tags>
     
